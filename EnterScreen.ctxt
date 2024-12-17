@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EnterScreen
+comment0.text=\n\ Write\ a\ description\ of\ class\ EnterScreen\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=EnterScreen()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ EnterScreen.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ showBegin1()
+comment4.params=
+comment4.target=void\ yesNo()
+comment5.params=
+comment5.target=void\ prepare()
+comment5.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\n
+numComments=6
